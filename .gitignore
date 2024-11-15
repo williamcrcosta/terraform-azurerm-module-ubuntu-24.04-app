@@ -56,6 +56,8 @@ override.tf.json
 
 .terraform-docs.yml
 
+README.md
+
 
 # Include override files you do wish to add to version control using
 # negated pattern
